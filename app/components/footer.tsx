@@ -28,7 +28,7 @@ export default function Footer() {
           />
         </a>
       </div>
-      <div className="flex flex-row gap-2 justify-center items-center mb-2">
+{/*       <div className="flex flex-row gap-2 justify-center items-center mb-2">
         <p className="inline-block text-white">
 
           Made with
@@ -43,7 +43,7 @@ export default function Footer() {
 
           by Team FIL-B
         </p>
-      </div>
+      </div> */}
     </div>
   );
 }
